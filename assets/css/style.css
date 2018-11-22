@@ -1,0 +1,57 @@
+body {
+  color: yellow;
+  background-color: black;
+  font-size: 17px;
+  font-family: "Courier New", Courier, monospace;
+  box-sizing: border-box;
+  font-weight: 500;
+  border: 5px solid white;
+  width: 700px;
+  height: 750px;
+  border-radius: 5%;
+  padding: 5px;
+  display: inline-table;
+  align-items: center;
+}
+h1 {
+  color: green;
+  text-align: center;
+}
+h3 {
+  font-stretch: initial;
+  font-size: 15px;
+}
+u {
+  color: orange;
+}
+h4 {
+  font-stretch: initial;
+  font-size: 14px;
+  font-weight: 500;
+}
+.this {
+  text-align: center;
+  font-weight: 500;
+}
+.songs {
+  color: orange;
+  padding-left: 90px;
+}
+.movies {
+  color: green;
+  padding-left: 90px;
+  font-weight: 500;
+}
+.foods {
+  color: green;
+  padding-left: 90px;
+  font-weight: 500;
+}
+.cartoons {
+  color: green;
+  padding-left: 90px;
+  font-weight: 500;
+}
+ol {
+  padding-left: 120px;
+}
