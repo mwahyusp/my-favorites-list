@@ -5,7 +5,6 @@ body {
   font-family: "Courier New", Courier, monospace;
   box-sizing: border-box;
   font-weight: 500;
-  border: 5px solid white;
   width: 700px;
   height: 750px;
   border-radius: 5%;
@@ -13,45 +12,60 @@ body {
   display: inline-table;
   align-items: center;
 }
+
 h1 {
   color: green;
-  text-align: center;
+  text-align: left;
 }
+
 h3 {
   font-stretch: initial;
   font-size: 15px;
 }
+
 u {
   color: orange;
 }
+
 h4 {
   font-stretch: initial;
   font-size: 14px;
   font-weight: 500;
 }
+
 .this {
-  text-align: center;
+  text-align: left;
   font-weight: 500;
 }
+
 .songs {
-  color: orange;
-  padding-left: 90px;
-}
-.movies {
+  padding-left: 0px;
+  text-decoration: orange;
   color: green;
-  padding-left: 90px;
+}
+
+.movies {
+  padding-left: 0px;
+  color: green;
   font-weight: 500;
 }
+
+a {
+  text-decoration: orange;
+}
+
 .foods {
   color: green;
-  padding-left: 90px;
+  padding-left: 0px;
   font-weight: 500;
 }
+
 .cartoons {
   color: green;
-  padding-left: 90px;
+  padding-left: 0px;
   font-weight: 500;
 }
+
 ol {
-  padding-left: 120px;
+  padding-left: 0px 15px;
 }
