@@ -1,6 +1,6 @@
 body {
   color: yellow;
-  background-color: black;
+  background-color: #16213E;
   font-size: 17px;
   font-family: "Courier New", Courier, monospace;
   box-sizing: border-box;
@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-  color: green;
+  color: #B5EAEA;
   text-align: left;
 }
 
@@ -41,12 +41,12 @@ h4 {
 .songs {
   padding-left: 0px;
   text-decoration: orange;
-  color: green;
+  color: #B5EAEA;
 }
 
 .movies {
   padding-left: 0px;
-  color: green;
+  color: #B5EAEA;
   font-weight: 500;
 }
 
@@ -55,13 +55,13 @@ a {
 }
 
 .foods {
-  color: green;
+  color: #B5EAEA;
   padding-left: 0px;
   font-weight: 500;
 }
 
 .books {
-  color: green;
+  color: #B5EAEA;
   padding-left: 0px;
   font-weight: 500;
 }
